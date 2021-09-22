@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"Hadrien","characterIndex":0,"characterName":"Hadrien","classId":1,"equips":[1,1,0,2,0],"faceIndex":0,"faceName":"Hadrien","traits":[],"initialLevel":1,"maxLevel":50,"name":"Hadrien","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Carle","characterIndex":0,"characterName":"Carle","classId":2,"equips":[2,0,0,2,0,0],"faceIndex":0,"faceName":"carle","traits":[],"initialLevel":4,"maxLevel":50,"name":"Carle","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
