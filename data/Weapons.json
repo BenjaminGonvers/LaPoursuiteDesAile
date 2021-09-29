@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"animationId":1,"description":"Epée simple ce trouvant chez tout bon forgerons.","etypeId":1,"traits":[{"code":31,"dataId":12,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Epée","note":"","params":[0,0,10,0,0,0,0,0],"price":50,"wtypeId":2},
-{"id":2,"animationId":29,"description":"Arc simple, Ce trouvent facilement chez les arctiers.","etypeId":1,"traits":[{"code":31,"dataId":10,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Arc","note":"","params":[0,0,12,0,0,0,0,0],"price":80,"wtypeId":7},
-{"id":3,"animationId":1,"description":"Grande Epée de manufacture simple.","etypeId":1,"traits":[{"code":31,"dataId":12,"value":0},{"code":22,"dataId":0,"value":0},{"code":54,"dataId":2,"value":1}],"iconIndex":97,"name":"Epée a deux main","note":"","params":[0,0,16,0,0,0,0,0],"price":100,"wtypeId":13},
+{"id":1,"animationId":1,"description":"Épée simple se trouvant chez tout bon forgerons.","etypeId":1,"traits":[{"code":31,"dataId":12,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Epée","note":"","params":[0,0,10,0,0,0,0,0],"price":50,"wtypeId":2},
+{"id":2,"animationId":29,"description":"Arc simples se trouvent facilement chez les arctiers.","etypeId":1,"traits":[{"code":31,"dataId":10,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Arc","note":"","params":[0,0,12,0,0,0,0,0],"price":80,"wtypeId":7},
+{"id":3,"animationId":1,"description":"Grande Épée de manufacture simple.","etypeId":1,"traits":[{"code":31,"dataId":12,"value":0},{"code":22,"dataId":0,"value":0},{"code":54,"dataId":2,"value":1}],"iconIndex":97,"name":"Épée à deux main","note":"","params":[0,0,16,0,0,0,0,0],"price":100,"wtypeId":13},
 {"id":4,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
 {"id":5,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
 ]
